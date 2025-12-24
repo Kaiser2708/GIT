@@ -1,2 +1,2 @@
-print("pero  que es lo que pasa chavalesssss")
+print("pero")
 
